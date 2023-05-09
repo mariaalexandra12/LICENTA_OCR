@@ -1,0 +1,13 @@
+body a{
+  font-family:'Courier New', Courier, monospace;
+  font-size: 25px; 
+}
+
+body button{
+  color: blue;
+  justify-content: center;
+}
+
+body{
+  justify-content: flex;
+}
